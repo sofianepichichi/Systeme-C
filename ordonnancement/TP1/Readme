@@ -1,0 +1,12 @@
+
+Etudiant 1 ==> Nom: KACI
+               Prénom: Sofiane.
+
+Etudiant 2 ==>Nom : Icheva
+              Prénom : Sonja
+
+
+Pour ce premier TP2 on a réalisé tous le travail demandé, on a utilisé un Makefile
+pour éxécuté plusieurs programme, on a utilisé le try.h  pour spécifier les prototype des fonctions utilisé.
+
+en fin d'éxécution on récupére les valeurs des deux registres de la pile.
